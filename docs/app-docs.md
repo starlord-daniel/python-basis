@@ -1,6 +1,6 @@
 # Application documentation
 
-Code documentation should always happen within the code itself. This document is only intended to explain what is done.
+Code documentation should always happen within the code itself. This document is mostly intended to explain how to work with the code that is written.
 
 ## Functionality
 
