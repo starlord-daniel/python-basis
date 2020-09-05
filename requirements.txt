@@ -1,0 +1,4 @@
+# Lists all Development dependencies
+pytest==5.2.2
+flake8==3.7.9
+pytest-cov==2.10.1
